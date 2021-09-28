@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { useEffect, useState } from "react"
 import { useEthers, useContractFunction } from "@usedapp/core"
 import { constants, utils } from "ethers"
