@@ -59,7 +59,7 @@ export const Main = () => {
     ]
 
     return (<>
-        <h2 className={classes.title}>Dapp Token App</h2>
+        <h2 className={classes.title}>Kovan Staking dApp</h2>
         <YourWallet supportedTokens={supportedTokens} />
     </>)
 }
