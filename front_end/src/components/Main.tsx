@@ -1,4 +1,4 @@
-/* eslint-disable spaced-comment */
+/* eslint-disable */
 /// <reference types="react-scripts" />
 import { useEthers } from "@usedapp/core"
 import helperConfig from "../helper-config.json"
